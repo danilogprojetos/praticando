@@ -1,0 +1,42 @@
+
+
+anexo: C:\Users\NOVAPR~2\AppData\Local\Temp\56\exportar.zip
+
+iniciar Connect
+
+protocol:SMTP status: Resolving hostname smtp.bs2.com.br.
+
+protocol:SMTP status: Connecting to 200.203.183.32.
+
+protocol:SMTP status: Connected.
+
+sair Connect
+
+Inicio: Enviar
+
+protocol:SMTP status: Encoding text
+
+protocol:SMTP status: Encoding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enviando: 106,8623 KB
+
+Fim: Enviar
+
+protocol:SMTP status: Disconnecting.
+
+Desconectado
+
+protocol:SMTP status: Disconnected.
